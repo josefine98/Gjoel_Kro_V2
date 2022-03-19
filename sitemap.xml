@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- urlset: reference til sitemap protokol -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://mmd.ucn.dk/class/MMD-CSD-S21/10407728/GjoelKro_V2/index.html</loc>
+    <lastmod>2022-01-23</lastmod>
+  </url>
+  <url>
+    <loc>https://mmd.ucn.dk/class/MMD-CSD-S21/10407728/GjoelKro_V2/frokost.html</loc>
+    <lastmod>2022-01-23</lastmod>
+  </url>
+  <url>
+    <loc>https://mmd.ucn.dk/class/MMD-CSD-S21/10407728/GjoelKro_V2/aftenkort.html</loc>
+    <lastmod>2022-01-23</lastmod>
+  </url>
+  <url>
+    <loc>https://mmd.ucn.dk/class/MMD-CSD-S21/10407728/GjoelKro_V2/drikkekort.html</loc>
+    <lastmod>2022-01-23</lastmod>
+  </url>
+  <url>
+    <loc>https://mmd.ucn.dk/class/MMD-CSD-S21/10407728/GjoelKro_V2/selskaber.html</loc>
+    <lastmod>2022-01-23</lastmod>
+  </url>
+  <url>
+    <loc>https://mmd.ucn.dk/class/MMD-CSD-S21/10407728/GjoelKro_V2/voreshistorie.html</loc>
+    <lastmod>2022-01-23</lastmod>
+  </url>
+  <url>
+    <loc>https://mmd.ucn.dk/class/MMD-CSD-S21/10407728/GjoelKro_V2/kontakt.html</loc>
+    <lastmod>2022-01-23</lastmod>
+  </url>
+</urlset>
+
+

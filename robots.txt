@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://mmd.ucn.dk/class/MMD-CSD-S21/10407728/GjoelKro_V2/sitemap.xml
